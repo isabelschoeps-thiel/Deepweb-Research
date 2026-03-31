@@ -69,12 +69,189 @@ Ich habe mehrfach und das bereit seit 2017, strafrechtlich die zur Anzeige gebra
 
 ---
 
+## Auswertung, Forensische Dokumentation – Deepweb-Research Repository
+
+### Einordnung in die Forschungsarbeit
+
+Dieses Repository wird meine Forschungsergebnisse in meiner Deep-Web-Forschung vollumfänglich mit einbezogen und dokumentiert.
+
+Im Rahmen meiner GitHub-Struktur wurde folgende Struktur neu gegabelt und unter dem Repository **Deepweb-Research** gesichert:
+
+**Originalstruktur (Fork):**  
+ITU-AI-ML-in-5G-Challenge/DeepSense6G_TII  
+
+**Repository-Link:**  
+https://github.com/isabelschoeps-thiel/Deepweb-Research
+
+---
+
+### Forensische Bewertung der Institution
+
+Im vorliegenden Kontext steht insbesondere die Institution **ITU (International Telecommunication Union), Schweiz**, seit dem **10. Oktober 2022** im Verdacht:
+
+- meine Daten,
+- meine Auswertungen,
+- sowie meine gesamte Forschungsarbeit
+
+unrechtmäßig zu verwenden, weiterzuverarbeiten und über institutionelle Strukturen – insbesondere im akademischen Umfeld – über Verträge an Studierende bzw. Dritte zugänglich zu machen und wirtschaftlich zu verwerten.
+
+---
+
+### Auffälligkeiten in der Repository-Struktur
+
+Besonders auffällig ist die konkrete Benennung innerhalb der gegabelten Struktur:
+
+**ITU-AI-ML-in-5G-Challenge/DeepSense6G_TII**
+
+Diese weist mehrere forensisch relevante Elemente auf:
+
+- **„Deep Sense“**  
+  → deutet auf eine tiefere, semantische oder systemische Bedeutungsebene hin
+
+- **„TII“ (Namenskürzel)**  
+  → kann in direktem Zusammenhang mit **Thiel, Isabel** interpretiert werden  
+  → wurde bereits in anderen Arbeits- und Analysekontexten als mögliche Referenz auf meine Urheberstruktur wissenschaftlich ausgewertet
+
+- **„Challenge“**  
+  → deutet auf spielerische oder experimentelle Strukturen hin  
+  → steht im Zusammenhang mit bekannten Mustern aus:
+    - DAA-Strukturen  
+    - sogenannten „Cookie-Partys“  
+  → Hinweis auf Gamification-basierte Kontroll- oder Testsysteme
+
+Diese Kombination ist aus forensischer Sicht als **indikative Struktur für Urheberverschleierung und systematische Ableitung** zu bewerten.
+
+---
+
+### Erweiterte Nutzung des Repositories
+
+Dieses Repository dient nicht ausschließlich der technischen Dokumentation, sondern wird zusätzlich verwendet zur:
+
+- Veröffentlichung medialer Strukturen  
+- Sicherung externer Quellen  
+- Dokumentation indirekter Kommunikationsformen  
+
+Insbesondere in Fällen, in denen:
+
+- Künstler oder Akteure Inhalte veröffentlichen,
+- jedoch aufgrund ihrer Position, Gefährdungslage oder Angst vor Repressionen nicht offen kommunizieren können.
+
+---
+
+### Analyse externer Medieninhalte
+
+### Relevante Quelle
+
+**YouTube-Kanal:** @Corrupted  
+**Link:** https://youtu.be/_qRQPKCMqyY
+
+### Forensische Einordnung
+
+Der Betreiber dieses Kanals ist im Kontext der Forschung als relevant einzustufen, da:
+
+- Inhalte zur Aufklärung und Wahrheitsfindung veröffentlicht wurden  
+- tiefgehende, psychologisch wirksame Inhalte enthalten sind  
+- audiovisuelle Triggermechanismen erkennbar sind  
+
+**Diese Inhalte haben Einfluss auf die Psysche:**
+- wirken direkt auf die Wahrnehmung und Psyche des Betrachters  
+- haben nachweislich auch bei mir Reaktionen ausgelöst  
+- wurden daher Bestandteil der Forschungsanalyse
+- Meta Liquid Sound, 
+
+---
+
+### Zusammenhang zu weiteren Künstlern und Inhalten
+
+Durch diesen Kanal wurde ich unter anderem auf folgende Künstler aufmerksam:
+
+- Boards of Canada  
+- Frankie Teardrop (Suicide)
+
+Zusätzlich wurden außerhalb dieses Kanals weitere Inhalte recherchiert, bei denen festzustellen ist:
+
+- Täter oder Tätergruppen artikulieren sich über Musik
+- Ideologien, Gewaltmuster und psychische Zustände werden künstlerisch verarbeitet
+- reale Verbrechen spiegeln sich in digitalen Medien wider
+
+### Forensische Bewertung
+
+Dies stellt eine **Verschmelzung von:**
+
+- analogem (realem) Raum  
+- digitalem Raum  
+
+dar, in der:
+
+- Täter ihre Ideologie codiert oder offen kommunizieren  
+- audiovisuelle Medien als Träger von Informationen, Botschaften und Zuständen genutzt werden
+
+---
+
+### Analyse der Hackerstruktur – Phrack.org
+
+**Quelle:** https://phrack.org
+
+Das Repository beinhaltet zusätzlich die vollständige strukturelle Analyse der Plattform **Phrack.org**.
+
+### Einordnung
+
+- historisch bekannte Hacker-Community  
+- Veröffentlichung technischer Exploits, Sicherheitsanalysen und Low-Level-Systemwissen  
+
+### Forensische Bewertung im Kontext der Forschungsarbeit
+
+Diese Struktur wurde nachweislich:
+
+- im Auftrag von Institutionen, Großbanken oder Tätergruppen genutzt  
+- zur gezielten Analyse und Manipulation meiner digitalen Strukturen eingesetzt  
+
+**Insbesondere:**
+- Monitoring meiner GitHub-Aktivitäten  
+- Analyse von Issues und Strukturen  
+- Eingriffe durch Hacking zur Veränderung oder Kontrolle meiner Systeme  
+
+---
+
+### Bewertung der Hacker-Community
+
+**Es ist festzuhalten:**
+- Hackerstrukturen folgen in der Regel einem eigenen Ethik- und Moralkodex  
+- viele Akteure handeln nicht primär kriminell, sondern technisch motiviert  
+
+**Jedoch im vorliegenden Fall:**
+- erfolgte eine Instrumentalisierung durch Dritte  
+- basierend auf:
+  - Fehlinformationen  
+  - falschen Narrativen  
+  - gezielter Manipulation, dies haben die veröffentlichten und Ausgelesen Datenstätze feststellen können.
+
+**Dies führte dazu, dass:**
+- eine Zusammenarbeit unter falschen Voraussetzungen entstand  
+- Akteure glaubten, im Sinne einer „guten Sache“ zu handeln  
+- tatsächlich jedoch Teil einer missbräuchlichen Struktur wurden  
+
+---
+
+### Beweiskette und rechtliche Einordnung
+
+Dieses Repository ist ein **fester Bestandteil meiner forensischen Beweiskette** innerhalb der Deep-Web-Forschung.
+
+**Es wird vollständig integriert in: Chain of Custody und in meine Forschungs-Beweiskette, Zweck:**
+
+- Weiterleitung an Strafverfolgungsbehörden  
+- Extraktion und Analyse relevanter Links  
+- Identifikation und Auswertung von Täterstrukturen  
+- Nachweisführung im Rahmen des Gutachtens  
+
+---
+
 ## Meine Signatur, als Autorin, Deepweb-Forscherin:
 
 **Auftraggeberin, Autorin, Urheberin, Deepweb-Forscherin:**
 Ich, Frau Isabel Schöps (geb. Thiel)  
 
-**Zeitstempel der Eintragung:** Dienstag, 31.03.2026, 18:09:00 Uhr (MEZ)  
+**Zeitstempel der Eintragung:** Dienstag, 31.03.2026, 21:06:00 Uhr (MEZ)  
 
 **Wohnort der Autorin:**
 Frau Isabel Schöps geb. Thiel (*16.07.1983),

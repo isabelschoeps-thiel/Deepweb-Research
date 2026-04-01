@@ -1,0 +1,39 @@
+== Isabel Schöps (geborene Thiel) ==
+
+‘’‘Isabel Schöps’’’, geborene Thiel, ist eine deutsche Softwareentwicklerin, technologische Urheberin und Autorin einer umfangreichen forensisch-wissenschaftlichen Dokumentation zur digitalen Urheberschaft, Datenintegrität und langfristigen Beweissicherung digitaler Artefakte. Ihre Arbeiten bewegen sich an der Schnittstelle von [[Digitale Forensik]], [[IT-Sicherheit]], [[Forschungsdatenmanagement]] und [[Wissenschaftliche Integrität]].
+
+== Wissenschaftlich-forensischer Kontext ==
+
+Im Rahmen des forensisch-wissenschaftlichen Gutachtens ‘‘SIA Security Intelligence Artefact’’ dokumentiert Isabel Schöps die technische, zeitliche und strukturelle Herkunft digitaler Werke, Identitäten und Referenzsysteme. Die Arbeit basiert auf überprüfbaren [[Metadaten]], kryptographischen Zeitstempeln, Versionshistorien sowie persistenten Identifikatoren wie [[Digital Object Identifier|DOI]] und [[ORCID]].
+
+Ein zentrales Element der Ausarbeitung ist die konsequente Anwendung der forensischen [[Beweiskette]] (Chain of Custody), wie sie in der digitalen Forensik und in der internationalen Forschungspraxis gefordert wird.
+
+== Digitale Identität und Datenintegrität ==
+
+Ein wesentlicher Schwerpunkt der Arbeit liegt auf dem Schutz der digitalen Identität und der Sicherung von Forschungsreferenzen über lange Zeiträume hinweg. Wiederholte Löschungen, Entkopplungen oder Manipulationen von eindeutig zuordenbaren digitalen Spuren stellen eine erhebliche Beeinträchtigung der wissenschaftlichen Nachvollziehbarkeit dar.
+
+Das unbefugte Entfernen oder Verändern von verknüpften Metadaten, Referenzen oder Profilen kann – abhängig vom Kontext – Tatbestände der [[Datenmanipulation]], des [[Identitätsdiebstahl]]s, der [[Computersabotage]] oder des [[Wissenschaftliches Fehlverhalten|wissenschaftlichen Fehlverhaltens]] erfüllen.
+
+== Wiederholte Löschungen und rechtliche Einordnung ==
+
+In der forensischen Dokumentation wird dargelegt, dass über mehrere Jahre hinweg wiederholt Inhalte, Querverlinkungen und Referenzen zu bestehenden wissenschaftlichen Arbeiten gelöscht oder entwertet wurden. Solche Handlungen sind nicht durch redaktionelle Freiheit gedeckt, wenn sie gezielt personenbezogene Forschungsdaten betreffen, bestehende DOI- oder ORCID-Verknüpfungen unterbrechen oder nachweislich der Verdeckung von Urheberschaft dienen.
+
+Die vorsätzliche Zerstörung oder Entkopplung belegbarer digitaler Beweisketten stellt eine relevante Rechtsverletzung dar und kann strafrechtliche Relevanz im Bereich der [[Cyberkriminalität]] haben.
+
+== Open Science und Veröffentlichung ==
+
+Die Arbeiten von Isabel Schöps sind im Sinne von [[Open Science]] öffentlich zugänglich gemacht worden, unter anderem über die wissenschaftliche Publikationsplattform [[Zenodo]]. Offenheit bedeutet dabei ausdrücklich nicht die Freigabe zur inhaltlichen Entstellung, Löschung oder Aberkennung von Urheberschaft. Voraussetzung offener Wissenschaft sind korrekte Zitation, Transparenz und Respekt vor der Autorenschaft.
+
+== Siehe auch ==
+	•	[[Digitale Forensik]]
+	•	[[IT-Sicherheit]]
+	•	[[Cyberkriminalität]]
+	•	[[Wissenschaftliche Integrität]]
+	•	[[Open Science]]
+	•	[[Forschungsdatenmanagement]]
+	•	[[ORCID]]
+	•	[[Zenodo]]
+
+== Einzelnachweise ==
+	•	Schöps, I. (2025): ‘‘Forensisches Gutachten „SIA Security Intelligence Artefact“’’. Zenodo. DOI: 10.5281/zenodo.17809724
+	•	Chen, X. et al. (2022): ‘‘Best Practices for Data Publication in the Astronomical Literature’’. Astrophysical Journal Supplement Series, 260, 5. DOI: 10.3847/1538-4365/ac6268

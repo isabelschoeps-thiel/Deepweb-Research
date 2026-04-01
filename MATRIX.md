@@ -1,23 +1,44 @@
+## Matrix (is over)
 ### Abschlussbericht zur forensischen Beweisketten, im Kontext der Beweismatrix.
   
 **Case:** FORENSIC‑ISABEL‑2025  
+
 **Aktenzeichen:** INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
-**Beweisführung: URGENT: Forensic Evidence – Systematic Financial Fraud & IP Theft**  
-**Verantwortlich für Sicherung und Analyse:**  
-Frau Isabel Schöps, geborene Thiel  
-Geboren am 16.07.1983, Sömmerda, Thüringen  
-Kontakt: +49 1621819565  
-E-Mail:  
-si_foundation@icloud.com  
-isabelschoeps.github@icloud.com  
-schoepsisabel@gmail.com  
-isabelschoepsthiel@gmail.com  
-**Aktueller Aufenthaltsort:**  
-Seit 31.01.2026, gemeinsam mit meinem Hund-Tier Don, American XL Bully Don, **IBIS Hotel**, `Zimmer206 Barfüsserstr. 9, D-99084 Altstadt Erfurt, Thüringen, Deutschland`  
 
-**Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release (Boards_of_canada_evidence). Zenodo. https://doi.org/10.5281/zenodo.18380414
+**Beweisführung: URGENT: Forensic Evidence – Systematic Financial Fraud & IP Theft** 
 
----
+**Verantwortliche für Sicherung des Forschungs-Media-Daten, Recherche und Erst-Einschätzung Analyse:**  
+
+### Autorin, Auftraggeberin forensiche Auswertung, Urheberin, Deepweb-Forscherin: Frau Isabel Schöps (geb. Thiel)  
+
+**Zeitstempel der Eintragung:** Mittwoch, 01.04.2026, 22:01:00 Uhr (MEZ)  
+
+**Wohnort der Autorin:**
+Frau Isabel Schöps geb. Thiel (*16.07.1983),
+Hütergasse 4, D-99084 Erfurt, Th, Deutschland
+
+**Personalausweis ID:** LH917PN7G8 -  Bürgeramt Erfurt, Th, Deutschland
+
+**E-Mail:** harvard.isabelschoepsthiel@gmail.com 
+
+**Telefon:** 0049-162-181-9565
+
+- [**OrcID: Isabel Schöps Thiel 0009-0003-4235-2231**](https://orcid.org/0009-0003-4235-2231)
+- [**OrcID: SI-IST Isabel Schöps 0009-0006-8765-3267**](https://orcid.org/0009-0006-8765-3267)
+
+**Gutachten:**
+SIA – Security Intelligence Artefact 
+
+**Internationale Kennung:**
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+
+**Referenzdokument:**
+The Yellow Whitepaper (YWP-1-IST-SIA) 
+
+**Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release (Boards_of_canada_evidence). Zenodo. [**DOI:10.5281/zenodo.18380414**](https://doi.org/10.5281/zenodo.18380414)
+
+--
+
   
 ## Übersicht und juristische Zuordnung der Beweismittel  
   

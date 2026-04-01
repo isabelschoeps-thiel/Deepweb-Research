@@ -1,6 +1,6 @@
 == Isabel Schöps (geborene Thiel) ==
 
-‘’‘Isabel Schöps’’’, geborene Thiel, ist eine deutsche Softwareentwicklerin, technologische Urheberin und Autorin einer umfangreichen forensisch-wissenschaftlichen Dokumentation zur digitalen Urheberschaft, Datenintegrität und langfristigen Beweissicherung digitaler Artefakte. Ihre Arbeiten bewegen sich an der Schnittstelle von [[Digitale Forensik]], [[IT-Sicherheit]], [[Forschungsdatenmanagement]] und [[Wissenschaftliche Integrität]].
+‘’Isabel Schöps’’, ist eine am 16. Juli 1983 um 23:20 Uhr im Kreiskrankenhaus, D-99610 Sömmerda, Thüringen, Deutschland geborene Thiel. Sie ist eine deutsche Softwareentwicklerin, technologische Urheberin und Autorin einer umfangreichen forensisch-wissenschaftlichen Dokumentation zur digitalen Urheberschaft, Datenintegrität und langfristigen Beweissicherung digitaler Artefakte. Ihre Arbeiten bewegen sich an der Schnittstelle von [[Digitale Forensik]], [[IT-Sicherheit]], [[Forschungsdatenmanagement]] und [[Wissenschaftliche Integrität]].
 
 == Wissenschaftlich-forensischer Kontext ==
 

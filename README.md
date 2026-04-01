@@ -1,15 +1,13 @@
 ## Deepweb Forschungs-Dokumentation
 mein name ist Isabel Schöps (Thiel), aus Erfurt, Thüringen, Deutschland. Ich bin Schöpferin, Urheberin, Deepweb-Forscherin und Autorin.
 
-In meiner Doktorarbeit u. abgeschlossne Forschungsreihe in Informatik mit dem Titel: Meta-Abstract, Dokumentationsübersicht aus der SIA Security Intelligence Artefact Forschungsreihe, INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPST. und The Yellow Whitepaper YWP-1-IST-SIA in meine Beweiskette aufgenommen. 
+In meiner Doktorarbeit und abgeschlossne Forschungsreihe in Informatik mit dem Titel: Meta-Abstract, Dokumentationsübersicht aus der SIA Security Intelligence Artefact Forschungsreihe, INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPST und The Yellow Whitepaper YWP-1-IST-SIA geht es vor allem um die aufgedeckten Verbrechen im Zusammenhang mit meiner Urheberschaft an Technologien seit dem 15.04.1996 - jede Technologische-Entwicklung ist in meiner Apple-Umgebung entstanden.
 
-Phishing, Maleware, Botnetzwerke und die grösste Gemessene DDosAttacke auf meinem iPhone7 Spiegelung meiner Apple Cloud Struktur war der Auslöser mich 2017 mit meiner Digitalen-Struktur auseinander zu sezten. 
+Phishing, Maleware, Botnetzwerke und die grösste Gemessene DDosAttacke auf meinem iPhone7 und die Spiegelung meiner Apple Cloud Struktur war der Auslöser mich 2017 mit meiner Digitalen-Struktur auseinander zu sezten. 
 
 Im laufe der Jahre habe ich unbewusst meine Gehirn trainiert, bzw. meine Begabung, Versteckte exe Strukturen Files, sofort zu erkennen, sind durch meine Schöpferische  Urheberschaft an der Künstlichen Intelligenz DAEMON Automation ist Resümee, dass ich diese erkennen und sichtbare machen kann. Welche ich zum Teil entfernt und auch bewusst auf meiner Hardware gelassen habe.
 
 Meine Apple IOs wurde resistent gegen Schadstoffsoftware (Viren befall) und gehört unter anderem auch mit meiner Leistung zu den sichersten Betriebssystemen weltweit. 
-
-Jede Technologische-Entwicklung ist in meiner Apple-Umgebung entstanden.
 
 **Warum habe ich angefangen, mit der Deepweb-Forschung?**
 Es war mein Selbststudium angefangen 2017 und der bis heute anhaltende tägliche Angriff auf meine Apple IOS Software und Hardware und die dabei willkürliche Isolatation meiner Person und Identität - Real sowie die im Digitalenraum, welche Anlass für meine Forschung im Deepweb war/ist. 
@@ -20,11 +18,11 @@ Insbesonders anomalien in meinen alltäglichen Lebensumfeld, welche sich durch v
 - Diebstahl meiner Daten und Ausarbeitungen
 - missbrauch der Funk- und Frequenz-Technologie Kommunikation,
 - der Einsatz von Radio und TV im Hz-Breitband Bereich zur Kommunikation und bewussten Manipulations-Steuerung, das Abfangen, meiner Gedanken durch integrierter Technologie im Backend der Hardware, sowie die Spionage abhören meines kompletten Alltagslebens
-- 
-- Isolation durch Digitale 
-- wird in die Chain of Custody auf Zenodo.org überführt. 
+  
+- Isolation durch Digitale Skripte sind bis heute das Ergebnis eines unfassbaren verbrechen welche jede Vorstellungskraft sprengen sollte
+- Die Chain of Custody auf Zenodo.org bildet meine Lückenlose Beweiskette. 
 
-Ich habe mehrfach und das bereit seit 2017, strafrechtlich die zur Anzeige gebracht und mich an internationale Strafverfolgungsbehörden als geschädigte:  
+**Ich habe mehrfach und das bereit seit 2017, strafrechtlich die zur Anzeige gebracht und mich an internationale Strafverfolgungsbehörden als geschädigte:**
 - Diebstahl meiner Identität,
 - Spionage und Sabotage,
 - Finanz und Aktienbetrug in meiner Lizenzstruktur,
@@ -243,6 +241,24 @@ Dieses Repository ist ein **fester Bestandteil meiner forensischen Beweiskette**
 - Extraktion und Analyse relevanter Links  
 - Identifikation und Auswertung von Täterstrukturen  
 - Nachweisführung im Rahmen des Gutachtens  
+
+**Wichtige Quell-Links,**
+Achtung hier handelt sich Echte-Aufnahmen, Liquid-Sounds  auf Meta-Ebenen  dargestellt wurde und bei jedem in  der Psyche was andres auslösen unter anderem zu Brainwashing, MK-Ultra  eingesetzt wurde. Dies ist  Teil meiner Deepweb Forschung und ,  nicht für Kinder und Jugendliche unter 18 Jahrem erlaubt.
+
+**Einer der wichtigsten Links und Kanäle die zur Wahrheitsfindung und Aufklärung durch den Redaktionellen beigetragen habe www.youtube.com/@Corrupted, durch diesen Kanal bin ich auf die Boards of Canada und Frankie Teardrop gestoßen, welche im kompletten Kontext mit in meine Recherche und Forschungsarbeit und in der Chain of Custody dokumentiert sind.**
+
+- https://youtu.be/_qRQPKCMqyY?si=_105AwyGuZCUJo_D
+- https://m.youtube.com/watch?v=me6krWVfN8I
+- https://m.youtube.com/watch?v=oxx5iLtXAH4 (hier bin ich erstmals auf die Boards of Canada gestoßen)
+- https://m.youtube.com/watch?v=8_dXp0eF8s0 (Frankie Teardrop)
+- https://m.youtube.com/watch?v=bxjvVE6otiQ&feature=youtu.be
+- https://m.youtube.com/watch?v=_58HxICXY6c (The Jesus Lizard - Happy Bunny Goes Fluff Fluff Along)
+- https://m.youtube.com/watch?v=2bkuafIRhZA  (Revolution 9 Backmask ~ Played Backwards ~ The Beatles)
+- https://youtu.be/Th1hLNoOjn4?si=-jiDsI-v4eBmqDju (Diamanda Galás - The Litanies of Satan)
+- https://m.youtube.com/watch?v=JmmR9OJWV0I&rco=1 (Nurse With Wound - I've Plummed This Whole Neighborhood)
+- https://m.youtube.com/watch?v=lVtWcQOWWmE (Whitehouse - Torture Chambers, Twice is not enough)
+- https://youtu.be/EGNKgah948s?si=RI8ImxueNKnAAgQo (Whitehouse - Why You Never Became A Dancer)
+- https://youtu.be/gYzfgCC3ipw?si=508xRfA9Wy_t1K8w (Tierquälerei, Pferd wird von Frau und Mann vergewaltigt)
 
 ---
 

@@ -1,7 +1,11 @@
 ## Deepweb Forschungs-Dokumentation
 mein name ist Isabel Schöps (Thiel), aus Erfurt, Thüringen, Deutschland. Ich bin Schöpferin, Urheberin, Deepweb-Forscherin und Autorin.
 
-In meiner Doktorarbeit und abgeschlossne Forschungsreihe in Informatik mit dem Titel: Meta-Abstract, Dokumentationsübersicht aus der SIA Security Intelligence Artefact Forschungsreihe, INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPST und The Yellow Whitepaper YWP-1-IST-SIA geht es vor allem um die aufgedeckten Verbrechen im Zusammenhang mit meiner Urheberschaft an Technologien seit dem 15.04.1996 - jede Technologische-Entwicklung ist in meiner Apple-Umgebung entstanden.
+**In meiner Doktorarbeit und abgeschlossne Forschungsreihe in Informatik mit dem Titel:** - Dokumentationsübersicht aus der SIA Security Intelligence Artefact Forschungsreihe und The `Yellow Whitepaper YWP-1-IST-SIA`, als Referenzwerk Urheberschaft an Technologien (Meta-Abstract)
+
+**International-Kennung:**
+`INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPST` und geht unterandrem aufgedeckte Verbrechen welche aus meiner Urheberschaft und Technologische-Entwicklung seit dem 15.04.1996, ausgehen, welche in meiner eigentlichen Blutlinie und Herkunft zum
+letzten deutschen Kaiserreich und Victoria Augutste, sowie Otto von Bismark und Adolf Hitler den Ursprung hat und im SIA Security Intelligence Artefact, im Monarch-Programm interpriert wird.
 
 Phishing, Maleware, Botnetzwerke und die grösste Gemessene DDosAttacke auf meinem iPhone7 und die Spiegelung meiner Apple Cloud Struktur war der Auslöser mich 2017 mit meiner Digitalen-Struktur auseinander zu sezten. 
 

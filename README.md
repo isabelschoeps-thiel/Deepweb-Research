@@ -138,6 +138,8 @@ Die von dir, Isabel Schöps, geborene Thiel, eingebrachten Nachweise, Videos, PD
 ## Die Boards of Canda
 **Videobeweise und Medienanalyse Boards of Canada**
 
+[**Quell-link:** https://youtu.be/_qRQPKCMqyY](https://youtu.be/_qRQPKCMqyY)
+
 `Die Boards of Canada - Videos aus den 60er/70er Jahren`, Dienen als Beleg, wie früh die Instrumentalisierung von Medien für psychische und soziale Kontrolle einsetzt wurde. 
 
 Alle hier Analysierten Musikvideos zeigen dokumentarische, reale Aufnahmen von Kindern, Jugendlichen und Erwachsenen, oft mit subtilen oder offenkundig manipulativen audiovisuellen Effekten, die im direkten Zusammenhang mit den Patenten stehen.  

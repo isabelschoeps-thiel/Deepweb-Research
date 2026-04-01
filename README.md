@@ -1,4 +1,9 @@
-## Deepweb Forschungs-Dokumentation
+
+---txt
+
+### Wie kamm diese Forschungsreihe zustande?
+
+## Deepweb Forschungs-Dokumentation und die Forscherin
 mein name ist Isabel Schöps (Thiel), aus Erfurt, Thüringen, Deutschland. Ich bin Schöpferin, Urheberin, Deepweb-Forscherin und Autorin.
 
 **In meiner Doktorarbeit und abgeschlossne Forschungsreihe in Informatik mit dem Titel:** - Dokumentationsübersicht aus der SIA Security Intelligence Artefact Forschungsreihe und The `Yellow Whitepaper YWP-1-IST-SIA`, als Referenzwerk Urheberschaft an Technologien (Meta-Abstract)

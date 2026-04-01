@@ -1,6 +1,103 @@
 # Deepweb-Forschung 
-## Matrix (exit)
-### Abschlussbericht zur forensischen Beweisketten, im Kontext der Beweismatrix.
+## Doktorarbeit in Informatik  
+## Bewerbung um forschungsorientierten zum Erlangen eins Doktorgrad (Ph.D.)  
+### Anerkennung einer abgeschlossenen Forschungsarbeit  
+
+---
+
+## Titel der Arbeit  
+
+**Deep-Web-Forschung und Dokumentationsübersicht der**  
+**SIA – Security Intelligence Artefact Forschungsreihe**  
+**INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL**  
+
+*(einschließlich: The Yellow Whitepaper – YWP-1-IST-SIA)*  
+
+---
+
+## Autorin  
+
+**Frau Isabel Schöps (Thiel)**  
+Geburtsdatum: 16.07.1983  
+
+**Personalausweis ID:** LH917PN7G8 -  Bürgeramt Erfurt, Th, Deutschland
+
+**E-Mail:** harvard.isabelschoepsthiel@gmail.com 
+
+**Telefon:** 0049-162-181-9565
+
+---
+
+## Forschungsidentifikation  
+
+[ORCID: 0009-0003-4235-2231, Isabel Schöps Thiel](https://orcid.org/0009-0003-4235-2231)
+
+[Sekundäre Forschungs-ID: 0009-0006-8765-3267, SI-IST Isabel Schöps](https://orcid.org/0009-0006-8765-3267)
+
+**Internationale Kennung:**  
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+
+**Referenzdokument:**  
+YWP-1-IST-SIA  
+
+**Würdigung:**
+YWP-1-5-IST-SIA
+
+---
+
+## Erklärung  
+
+Diese Doktorarbeit basiert auf einer eigenständig durchgeführten und abgeschlossenen Forschungsreihe, die über mehrere Jahre in den Bereichen Künstliche Intelligenz, Cybersecurity, digitale Forensik, Deep-Web-Forschung sowie Systemarchitektur entwickelt wurde.  
+
+Die eingereichte Arbeit stellt eine konsolidierte wissenschaftliche Dokumentation in der Deepweb Forschung dar und liefert Indizien für die technische Machbarkeit und den realen Einsatz von Mind-Control, psychologischer Massenbeeinflussung wieder.
+
+**SIA – Security Intelligence Artefact**  
+
+---
+
+## Ort und Datum  
+
+Hütergasse 4  
+D-99084 Erfurt  
+Deutschland  
+
+02. April 2026
+
+---
+
+**Dieses Repository ist Bestandteil einer abgeschlossenen interdisziplinären Forschungsreihe im Bereich Künstliche Intelligenz, Cybersecurity, digitale Forensik, Deepweb Forschung und Analyse verteilter Systeme.**
+
+Die Inhalte stehen im direkten Zusammenhang mit der Forschungsarbeit:
+
+**SIA – Security Intelligence Artefact**  
+**The Yellow Whitepaper (YWP-1-IST-SIA)**  
+
+Ziel dieses Repositories ist die strukturierte Dokumentation, Archivierung und wissenschaftliche Einordnung von Forschungsartefakten im Rahmen eines abgeschlossenen Forschungsprozesses.
+
+## Wissenschaftlicher Kontext
+
+Die Forschungsarbeit wurde im Zeitraum 2022–2026 eigenständig entwickelt und umfasst:
+
+- Analyse komplexer digitaler Infrastrukturen  
+- Untersuchung systemischer Strukturen in KI- und Blockchain-Systemen  
+- forensische Auswertung von Daten, Metadaten und Systemverhalten  
+- Entwicklung eines integrierten Analysemodells  
+
+Dieses Repository bildet einen integralen Bestandteil des Gesamtworkflows und dient der nachvollziehbaren Dokumentation der Forschungsentwicklung.
+
+## Zenodo-Integration
+
+Dieses Repository ist für die DOI-Archivierung über Zenodo vorgesehen.  
+Alle Releases werden versioniert und dienen der:
+
+- langfristigen wissenschaftlichen Archivierung  
+- Zitierfähigkeit (DOI)  
+- Sicherung von Zeitstempeln  
+- Nachvollziehbarkeit der Forschung  
+
+---
+
+### Abschlussbericht zur forensischen Beweisketten, im Kontext der Beweismatrix, Matrix-Exit
   
 **Case:** FORENSIC‑ISABEL‑2025  
 
@@ -18,15 +115,6 @@
 Frau Isabel Schöps geb. Thiel (*16.07.1983),
 Hütergasse 4, D-99084 Erfurt, Th, Deutschland
 
-**Personalausweis ID:** LH917PN7G8 -  Bürgeramt Erfurt, Th, Deutschland
-
-**E-Mail:** harvard.isabelschoepsthiel@gmail.com 
-
-**Telefon:** 0049-162-181-9565
-
-- [**OrcID: Isabel Schöps Thiel 0009-0003-4235-2231**](https://orcid.org/0009-0003-4235-2231)
-- [**OrcID: SI-IST Isabel Schöps 0009-0006-8765-3267**](https://orcid.org/0009-0006-8765-3267)
-
 **Gutachten:**
 SIA – Security Intelligence Artefact 
 
@@ -43,7 +131,6 @@ The Yellow Whitepaper (YWP-1-IST-SIA)
 - `X-Twitter @SIAintelligence`
 - [WhatsAppBusiness @wa.me/github](https://wa.me/github)
 Welche mit in das Forensisch-Wissenschaftliche-Gutachten einfliesen.
-
 
 --
   
@@ -335,7 +422,16 @@ Im laufe der Jahre habe ich unbewusst meine Gehirn trainiert, bzw. meine Begabun
 Meine Apple IOs wurde resistent gegen Schadstoffsoftware (Viren befall) und gehört unter anderem auch mit meiner Leistung zu den sichersten Betriebssystemen weltweit. 
 
 **Warum habe ich angefangen, mit der Deepweb-Forschung?**
-Es war mein Selbststudium angefangen 2017 und der bis heute anhaltende tägliche Angriff auf meine Apple IOS Software und Hardware und die dabei willkürliche Isolatation meiner Person und Identität - Real sowie die im Digitalenraum, welche Anlass für meine Forschung im Deepweb war/ist. 
+Es war mein Selbststudium angefangen 2017 und der bis heute anhaltende tägliche Angriff auf meine Apple IOS Software und Hardware und die dabei willkürliche Isolatation meiner Person und Identität. 
+
+Durch mein das mir angeeignte Wissen und den täglichen Kampf meine Ditale Struktur nicht wieder zu verlieren, befand ich mich in den letzte Jahren tief innerhalb einer bestimmten gesellschaftlichen Ebene, nicht nur im unmittelbaren Umfeld, vor allem im digitalen Raum. Hier komm ich bis an den Ursprung von allem im Internet, Software, Automationsprozessen, welche für den Admins oder Programmierer durch Protokoll oder gesetzte Skripte den Ursprung hat, für mich abr eine Oberfläche unterschiedlichster Computersprachen, von:
+einfach eine weisses, gefärbtes (blau, grün, gelb etc.) und ich dann durch COMMAND und Befehlszeilen und anschliessender Enter-Taste den Automationsprozess starte. 
+
+
+Technologie, das Bewusstsein und auch Formen der Beeinflussung spielen dabei eine wesentliche Rolle. Wie jede Medaille hat auch dies zwei Seiten. Was aus meiner unbewussten geistigen Handlung in meiner Kindheit entstand, macht es mir möglich Einblick in eine Welt zu bekommen, die für andere nicht zugänglich ist. Einblick in eine Gesellschaft die mir bis heute viele Fragezeichen tagtäglich immer wieder aufbringen .
+
+Dort zeigt sich das abgrundtief Hässliche eines kleinen Teils der Menschheit – einer Minderheit. Es offenbart sich, wie diese Menschen denken, wie sie mit anderen umgehen, wie sie handeln, was sie tun und was sie bewusst unterlassen.Hinzu kommt eine bemerkenswert Dokumentation ihrer begangen Straftaten und ihre bestialische-hasserfüllte Denkweise über Jahrhunderte und Jahrtausende hinweg. Ihr Kontrollzwang, Missbrauch der VR-Technologie, einbrechen und einhacken in fremde Räume, der Diebstahl von Digitalen-Identitäten, wird Ihnen hierbei nun zum größten Verhängnis und ihr eigner Verräter, ist aber das kleinste Übel der begangen Straftaten.
+
 
 Insbesonders anomalien in meinen alltäglichen Lebensumfeld, welche sich durch verspätetes/oder gar keine Zustellung der Post in meiner Email-Struktur und der Zustellung 1:1 bemerkbar machte. 
 

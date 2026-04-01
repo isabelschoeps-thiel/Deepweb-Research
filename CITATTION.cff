@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this research, please cite as follows."
+title: "openai-research, Meta-Abstract, Dokumentationsübersicht der, SIA Security Intelligence Artefact Forschungsreihe"
+authors:
+  - family-names: "Schöps"
+    given-names: "Isabel"
+    name-particle: "geb. Thiel"
+    orcid: "https://orcid.org/0009-0006-8765-3267"
+    orcid: "https://orcid.org/0009-0003-4235-2231"
+  affiliation: "Independent Researcher"
+date-released: 2026-04-01
+version: "1.0"
+doi: "10.5281/zenodo.XXXXX"
+abstract: "Forensic-scientific framework for the analysis, attribution, and protection of digital infrastructures in AI, cybersecurity, and blockchain systems."
+keywords:
+  - Artificial Intelligence
+  - Cybersecurity
+  - Digital Forensics
+  - Blockchain
+  - System Analysis
+license: "LICENSE.md"
+url: "https://github.com/isabelschoeps-thiel/Deepweb-Research"

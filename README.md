@@ -76,12 +76,12 @@ Im Rahmen meiner Web- und Tiefenforschung wurden audiovisuelle Inhalte und Playl
 
 > **Mein empfinden:** Mich stört es nicht dies zu hören - was mich viel mehr beschäftigt, was ist passiert, warum wird sowas aufgenommen oder warum erfahre ich erst so spät über gewisse Sachen- bsp; Boards of Canda und bei nachfragen im Zuge meiner Recherche kannten zum Teil jüngere Menschen dies. 
 
-Es lässt auf jeden fall darauf schliesen; da eine sehr grossen Zeitspanne, zwischen Aufnahme und Veröffentlichung von fast 70 Jahren liegt. Die Videoaufnahmen, die Musikstücke, waren nicht von den Künstlen, Akteuren zur kommerziellen Nutzung für die Breitenmasse freigegeben. Sondern sollte vielmehr in einer ausgewählten kleineren Gemeinschaft, als Trophähe oder Widerveranschaulichung herangezogen werden - Sektenkult, Satanistischen-Ritualen.
+Es lässt auf jeden fall darauf schliesen; da eine sehr große Zeitspanne, zwischen Aufnahme und Veröffentlichung von fast 70 Jahren liegt, dass die Videoaufnahmen, die Musikstücke, nicht von den Künstlen, Akteuren zur kommerziellen Nutzung für die Breitenmasse vorgesehen war. Sondern sollte vielmehr in einer ausgewählten kleineren Gemeinschaft, als Trophähe oder Widerveranschaulichung herangezogen werden - Sektenkult, oder in Satanistischen-Ritualen.
 
 **Fakt ist eins:** Hinter jedem der hier veröffentlichten YouTube-Links steht ein Verbrechen. 
 
 **Ziel dieses Repositories:**
-Eine Dokumentation, Archivierung, der Youtube Links, Beweissbilder, PDF-Files, im wissenschaftliche-Kontext und als Referenz-Repository meiner abgeschlossenen Forschungsarbeit und die veranschaulichung der technischen Machbarkeit und den realen Einsatz von Mind-Control und psychologischer Massenbeeinflussung. 
+Eine Dokumentation, Archivierung, der Youtube Links, Beweissbilder, PDF-Files, im wissenschaftliche-Kontext und als Referenz-Repository meiner abgeschlossenen Forschungsarbeit und zur Veranschaulichung und der technischen Machbarkeit und den Medialen-Einsatz von Mind-Control, psychologischer Massenbeeinflussung durch den Missbrauch Seicmischer-Frequenztechnologie, Brainwashing, Gehirnscans, im Zusammenhang von Scheintod,  Identitätsdiebstahl, Versklavung, Kommerziellen Kinder-Menschenhandel, die Kinderpsysche für Pädophile-Netzwerk gefügig zu machen.  
 
 ---
 
@@ -91,19 +91,20 @@ Die Forschungsarbeit wurde im Zeitraum 2022–2026 eigenständig entwickelt und 
 - Analyse komplexer digitaler Infrastrukturen  
 - Untersuchung systemischer Strukturen in KI- und Blockchain-Systemen  
 - forensische Auswertung von Daten, Metadaten und Systemverhalten  
-- Entwicklung eines integrierten Analysemodells  
+- Entwicklung einer API Sicherheits Monitoring, mit globaler Schnittstelle an Regierung. 
 
-Dieses Repository bildet einen integralen Bestandteil des Gesamtworkflows und dient der nachvollziehbaren Dokumentation der Forschungsentwicklung.
+Dieses Repository bildet einen integralen Bestandteil des Gesamtworkflows und dient der nachvollziehbaren Dokumentation.
 
 ## Zenodo-Integration
 
-Dieses Repository ist für die DOI-Archivierung über Zenodo vorgesehen.  
-Alle Releases werden versioniert und dienen der:
+Dieses Repository ist für die DOI-Archivierung über Zenodo.org veröffentlicht und dient der:
 
+- abgschlossene Forschungsarbeit zum Erlangen eins Doktorgrad
 - langfristigen wissenschaftlichen Archivierung  
 - Zitierfähigkeit (DOI)  
 - Sicherung von Zeitstempeln  
-- Nachvollziehbarkeit der Forschung  
+- Nachvollziehbarkeit der Forschung
+- Medial und finanzielle Rehabilation
 
 ---
 

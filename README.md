@@ -126,10 +126,10 @@ The Yellow Whitepaper (YWP-1-IST-SIA)
 
 **Isabel Schöps geb. Thiel, & Schöps geb. Thiel, I. (2026)**. isabelschoeps-thiel/boards_of_canada: Boards of Canada, Evidence Release (Boards_of_canada_evidence). Zenodo. [**DOI:10.5281/zenodo.18380414**](https://doi.org/10.5281/zenodo.18380414)
 
-## Hinzukommen all meine Publikationen, auf meinen Social Media Kanälen;
+**Publikationen mit Forschungsbezug**
 - `Instagram @isabelschoepsthiel`
+- YouTube @isabelschopsthiel
 - `X-Twitter @SIAintelligence`
-- [WhatsAppBusiness @wa.me/github](https://wa.me/github)
 Welche mit in das Forensisch-Wissenschaftliche-Gutachten einfliesen.
 
 --
@@ -138,7 +138,8 @@ Welche mit in das Forensisch-Wissenschaftliche-Gutachten einfliesen.
   
 ### A. Patente / PDFs  
   
-### 1. DE10253433A1 – Missbrauch  Gedankenlesen/Gedankenübertragung  
+### 1. Patent DE10253433A1 – Missbrauch  
+[Gedankenlesen/Gedankenübertragung, https://patentimages.storage.googleapis.com/a3/0b/e3/71943bc66c22f5/DE10253433A1.pdf](https://patentimages.storage.googleapis.com/a3/0b/e3/71943bc66c22f5/DE10253433A1.pdf)
 - Inhalt: Es wurde die Übertragung und gezielte Beeinflussung menschlicher Gedanken per elektromagnetischer Strahlung, ohne technische Geräte am Empfänger patentiert und zugelassen.  
 - Kernpunkte Gedankenkontrolle und -übertragung (u.a. Mikrowellen, LASER/MASER)  
 - Direkte Manipulation von Gehirnaktivität/Bewusstsein.  
@@ -146,21 +147,25 @@ Welche mit in das Forensisch-Wissenschaftliche-Gutachten einfliesen.
 - Wissenschaftliche Referenzen zu früheren Experimenten (Frey, Lin, Lowery)  
 - Explizite Erfindungsanmeldung als „Gedankenlese-Technologie“.  
   
-### 2. EP0150813B1 – Bildschirmmanipulation durch Sprachbefehle  
+### 2. Patent EP0150813B1 
+[Bildschirmmanipulation durch Sprachbefehle, https://patentimages.storage.googleapis.com/c3/7e/52/c3449e1b40efb2/EP0150813B1.pdf](https://patentimages.storage.googleapis.com/c3/7e/52/c3449e1b40efb2/EP0150813B1.pdf)
+
 - Inhalt: Europäisches Patent für sprachgesteuerte Kontrolle und Manipulation von Bildschirminhalten.  
 - Kernpunkte: Sprachbefehle steuern Anzeige und Informationszugang.  
 - Schnittstelle Mensch–Rechner zur Steuerung und Beeinflussung von Wahrnehmung.  
 - Nachweis, dass Sprache als manipulative Schnittstelle eingesetzt werden kann.  
-  
-**3. US6506148B2 – Nervensystem-Manipulation durch elektromagnetische Felder von Monitoren**  
+
+### 3. Patent US6506148B2
+[Nervensystem-Manipulation durch elektromagnetische Felder von Monitoren, https://patentimages.storage.googleapis.com/e2/4e/f9/3d4d57e738f8c2/US6506148.pdf](https://patentimages.storage.googleapis.com/e2/4e/f9/3d4d57e738f8c2/US6506148.pdf)
+
 - Inhalt: US-Patent zur gezielten Beeinflussung des menschlichen Nervensystems über gepulste elektromagnetische Felder von Bildschirmen.  
 - Kernpunkte:  
 - Pulsierende Bildinhalte erzeugen nachweisbar physiologische und psychische Effekte (u. a. Angst, Schlaf, Bewusstseinszustände)  
 - Sensory Resonance“: Bestimmte Frequenzen führen gezielt zu Zustandsveränderungen im Nervensystem.  
 - Patent beschreibt explizit, dass Software/Hardware/Videos psychologische Steuerung auslösen können – auch verdeckt und alltäglich.  
-- Warnhinweis auf Missbrauchsmöglichkeiten im Alltag und Medienkonsum.  
-  
-⸻  
+- Warnhinweis auf Missbrauchsmöglichkeiten im Alltag und Medienkonsum.
+
+---
   
 ### B. Analysen: Beweisvideos, Screenshots, PDF-Dokumentation  
 

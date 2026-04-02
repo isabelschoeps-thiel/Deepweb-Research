@@ -1,5 +1,4 @@
-
-1. Einleitung und Zielsetzung
+## 1. Zielsetzung Forschungsarbeit
 
 Dieses forensisch-wissenschaftliche Gutachten dient der gerichtsfesten, technischen und geistigen Dokumentation der Leistungen von Frau Isabel Schöps, geborene Thiel, in Bezug auf wesentliche Kerntechnologien im Bereich der digitalen Automation, Blockchain-Architektur, Open-Source-Entwicklung und künstlichen Intelligenz.
 
@@ -19,12 +18,14 @@ Es wurde von mir eine Umfangreiche Quell-, Beweis- und Rohdatenbank, Protokolle 
 für das Gutachten hochgeladen, rechtskonform gesichert und für die Wissenschaftliche-Auswertung zur Verfügung gestellt. 
 
 Ziel ist es, ihre Urheberschaft an zentralen Systemstrukturen – unter anderem Bitcoin Core, Ethereum, Lightning Network, Wallet-Protokollen und automatisierten DAEMON-Prozessen – nachvollziehbar, beweiskräftig und wissenschaftlich einzuordnen.
-⸻
+
+---
 
 2. Urheberschaft als geistiger Akt
 
 Die Entwicklung der dokumentierten Systeme basiert nicht auf einer Übernahme bestehender wissenschaftlicher Ansätze, sondern auf einem originären, menschlich-geistigen Schöpfungsprozess. Frau Schöps beschreibt die Entwicklung der KI-Automation als Symbiose aus innerer Wahrnehmung, subjektiver Erkenntnis, mathematischer Strukturierung und maschineller Reaktion. Diese Verbindung zwischen schöpferischer Intuition und technologischer Umsetzung ist einzigartig dokumentiert und belegt.
-⸻
+
+---
 
 3. Technische Rekonstruktion der KI-Automation
 
@@ -34,7 +35,7 @@ Die frühe Aktivierung des DAEMON-Systems in den 1990er Jahren, die automatische
 •	Zeitstempel und Metadaten (RFC 2100–2399, privatarchiviert)
 •	Beleg der ersten Blockchain-Kernstruktur: 17.09.2001
 
-⸻
+---
 
 4. Wissenschaftlicher Referenzrahmen
 
@@ -42,7 +43,7 @@ Zur technologischen Einordnung dient unter anderem der peer-reviewte Artikel Ope
 
 Diese Quelle dient ausschließlich der wissenschaftlichen Kontextualisierung, nicht der Ableitung.
 
-⸻
+---
 
 VORWORT der Urheberin Frau Isabel Schöps geb. Thiel 
 
@@ -54,7 +55,6 @@ Ich habe im April 2025  begonnen, die wichtigsten Quelldaten, Protokolle, Berich
 Vorangegangen ist eine 3 jährige Aufarbeitung von meiner Kindheit und Recherchearbeit meiner Jeder Schritt, den ich unternommen habe, wurde sorgfältig dokumentiert und digital-forensisch analysiert, um sicherzustellen, dass ich die Wahrheit spreche und nur ich, Isabel Schöps geborene Thiel, mit meiner vollen mentalen Stärke dies wieder verkörpern kann. Dies wurde auch im forensischen Gutachten ausführlich bestätigt. Die sensible Software- und Computerwelt ist bis heute eine Struktur-Branche und zugleich hochgefährliche, unsichtbare Waffe, die bis heute unter Kontrolle falscher Urheber ist und mit der wir bewusst tagtäglich manipuliert werden und die einen Schaden an dem menschlichen Organismus sowie in der Natur und bei Tieren verursacht, der zu diesem Zeitpunkt irreparabel ist.
 
 Die Wissenschaft sowie Künstliche Intelligenz erkennt mich Frau Isabel Schöps, geborene Thiel am 16.07.1983 in Sömmerda als Schöpferin der genannten Innovationen, Entwicklungen und Technologien an. Dies ist durch eine Vielzahl an digitalen, rechtlichen und technischen Beweismitteln von über 30.000 Rohdaten mit Quellcode, Signaturen, ZIPs, Screenshots, Zertifikaten belegt. Aufgrund der noch anhaltenden Manipulation, der missbrauch und die unrechtmäßige Nutzung meiner Konten, meiner Arbeiten, meiner Quelltexte, meiner Apple-ID, meines GitHub Accounts und modifizierten Deepfake Facebooks Accounts, werden nur Auszüge und keine vollen Quelltexte veröffentlicht, da diese durch AI Tools, Meta-Filter und gezielte Flags, diese in ihrem Ursprung zerstört werden können und durch Dritte, wie bereits seit 1999 missbraucht und meine digitale Identität, Urheberschaft in der Öffentlichkeit zerstört wird und umgeschrieben werden könnte. 
-
 
 Untermauert wird dieses Gutachten, durch Rechtsverweise der US University Harvard, UK University Oxford und der International Telecommunication Union (ITU) Schweiz, Genf. Zuvor wurde auf APA-Verweise verlinkt und ausgewertet, da APA (American Psychological Association), hauptsächlich die Bereiche Psychologie, Sozialwissenschaften, abdeckt, wurde vollständig auf Harvard-Referenzierung umgestellt. Da hier Software Urheberrecht, Kryptografie und digitale Beweisführung. Zudem habe ich ein Agreetment mit der University Oxford UK, Oktober 2025 abschließen können, hier geht es um den nachstehenden lizenzierten Inhalt: Reproduktion der vollständigen Fachpublikation Open Source Clustering Software von de Hoon, M.J.L. aus Bioinformatics, Vol. 20, Issue 9, 2.2004 mit der Lizenznummer: 6131130060979 Lizenzgeber: Oxford University UK Lizenzdatum: 16. Oktober 2025 Verwendet in: SIA Security Intelligence Artefact, veröffentlicht im Springer Verlag, 2025.
 
@@ -87,15 +87,17 @@ Im Rahmen meiner langjährigen wissenschaftlichen und persönlichen Recherchen �
 
 Insbesondere tauchten in digitalen Archiven, Registerauszügen und Gen-Datenbanken wiederholt verfälschte Angaben auf: Nicht existente Personen wurden als Familienmitglieder geführt, tatsächliche Verwandte wurden ausgeblendet oder nur bruchstückhaft erwähnt, während artfremde Namensstränge eingefügt wurden. Die Präsenz des Namens Marie/Maria sowie anderer Namenskonstellationen in Verbindung mit neuen Familienmitgliedern wie Marie Thiel, geborene Schäffner, und deren Verwandten, legt eine gezielte Vermischung von Identitätsdaten nahe.
 
-Auch Freundinnen wie Linda Uhlich geb. Seeger oder Sarah Rose erscheinen in den digitalen Listen nicht oder sind nicht auffindbar. Der Verlust der Nachvollziehbarkeit realer verwandtschaftlicher und sozialer Strukturen ist somit ein zentraler Befund.
+Was sehr verdächtig ist das ehemalige Freundinnen wie Linda Uhlich geb. Seeger oder Sarah Rose gar nicht in meinen Freundschaftlichen Kontext erscheinen.
 
-Technologische Aspekte spielen eine wesentliche Rolle: Nachweislich werden hochentwickelte Patente, etwa DE10253433A1 zur Gedankeneinwirkung und Manipulation, zur Verschleierung von Identitäten und gezielten Angriffen auf Privatleben, Gesundheit und Eigentum missbraucht. Deepfake-Technologie, Stimmenimitation und algorithmische Kommunikationsmanipulation wurden mehrfach gegen mich und meine Familie eingesetzt.
+**Technologische Aspekte spielen eine wesentliche Rolle:** 
+
+Nachweislich werden hochentwickelte Patente, etwa DE10253433A1 zur Gedankeneinwirkung und Manipulation, zur Verschleierung von Identitäten und gezielten Angriffen auf Privatleben, Gesundheit und Eigentum missbraucht. Deepfake-Technologie, Stimmenimitation und algorithmische Kommunikationsmanipulation wurden mehrfach gegen mich und meine Familie eingesetzt.
 
 Die Folgen sind gravierend: Rechtliche, soziale und wirtschaftliche Identität werden entzogen, Eigentums- und Urheberrechte angegriffen, mediale Desinformation und Umdeutung von Urheberschaft erfolgen systematisch. Der Ursprung bedeutender digitaler Innovationen – etwa die Microsoft-Windows-Suchmaske aus Rohrborn – wird fremden Akteuren zugeschrieben.
 
 Dieser Befund ist als Teil meines forensisch-wissenschaftlichen Gutachtens zu werten und wird in mehreren Kapiteln und Anlagen detailliert belegt. Eine abschließende juristische Bewertung und internationale Weiterverfolgung sind notwendig.
 
-⸻
+---
 
 3. Kurzfassung für Behörden/Deckblatt
 
@@ -123,7 +125,7 @@ Die vollständigen Dokumente, Protokolle und Nachweise werden fortlaufend in das
 
 Die forensischen Materialien belegen über einen mehrjährigen Zeitraum hinweg gezielte Angriffe auf das Umfeld und die körperliche Unversehrtheit der Familie Schöps-Knörig-Thiel in Leubingen, Rohrborn und Talborn (Thüringen). Die folgenden Muster konnten identifiziert werden: 
 
-⸻
+---
 
 1. Gezielte Umweltkontamination (Gifteinbringung)
 Fotografische Dokumente belegen toxische Substanzen, Ölspuren und tier- bzw. pflanzenschädliche Stoffe im unmittelbaren Wohn- und Bewegungsumfeld der Familie. Diese Taktiken stimmen mit bekannten Mustern der „Low Intensity Harassment“-Techniken überein (Zimbardo, 2007).
@@ -146,20 +148,18 @@ Referenzen (APA Style)
 
 •	Zimbardo, P. (2007). The Lucifer Effect: Understanding How Good People Turn Evil. Random House.
 
-⸻
+---
 
-Da das Verhältnis zu meiner Familie, meiner Tochter und Freunden massiv gestört ist, bis zu keinem persönlichen Kontakt mehr, wünsche ich mir nichts sehnlicher, Euch alle wieder zu sehen. Vor allem meine Tochter Jona, meine Mutti, mein Vati, mein Bruder Ingolf, all meine Cousins und Cousinen, Tanten und Onkels endlich wieder zu sehen. Seit Sommer 2023 hatte ich aus bisher unerklärlichen Gründen nie wieder Kontakt zu guten meiner guten Freundin, Linda Uhlich geb. Seeger und Sarah Rose obwohl es nie einen streit gab. Auch Freundinnen wie Carolin Drechsel geborene Saal und Christin Speich und auch Janetta Raddau, IHR fehlt mir so unendlich doll - ich würde mich riesig freuen euch alle endlich wieder zu sehen.
+Freundin habe ich nur eine, seit meinen 18. Lebenshahr ist sie mit höhen und tiefen an meiner Seite, Frau Carolin Drechsel geborene Saal (*18.04.1984) aus Sömmerda stammend und aktuell in der Schweiz lebend - ansonsten habe ich ausser Nadine Firtzlaff und sporadisch zu eines zwei männlichen Bekannten. Ansonsten habe ich zu niemanden aus meinen alten Freundesreis kontakt. 
 
+Das Verhältnis zu meiner Familie, meiner Tochter ist massiv gestört ist und bis zu heutigen Zeitpunkt kein persönlichen Kontakt mehr, ich wünsche mir nichts sehnlicher, Euch alle wieder zu sehen. Vor allem meine Tochter Jona, meine Mutti, mein Vati, mein Bruder Ingolf, all meine Cousins und Cousinen, Tanten und Onkels endlich wieder zu sehen. 
 
 Alles, was Sie bisher über die Computer und Finanzwelt zu wissen glaubten, beruht auf Halbwahrheiten und verschleiert eines der größten Verbrechen der Menschheit. Isabel Schöps befindet sich 
-
-
-
 
 DEUTSCH – Copyright- und Lizenzvermerk
 © Isabel Schöps, geborene Thiel – Alle Rechte vorbehalten. Dieses Werk ist urheberrechtlich geschützt. Es handelt sich um eine reine Leselizenz („Read-Only Use“).
 
-Jegliche Form der Vervielfältigung, Verbreitung, Veröffentlichung, Bearbeitung, Klonung, Weitergabe, Fork-Erstellung, Implementierung in andere Systeme, Reverse Engineering oder anderweitige Modifikation – ob ganz oder teilweise – ist strengstens untersagt.
+Jegliche Form der Vervielfältigung, Verbreitung, Veröffentlichung, Bearbeitung, Klonung, Weitergabe, Fork-Erstellung, Implementierung in andere Systeme, Reverse Engineering oder anderweitige Modifikation – ob ganz oder teilweise – ist strengstens untersagt. Nur zu Citationszwecke und meiner Medialen und Finanziellen Rehabilation darf dies Herangezogen werden 
 
 Diese Software darf ausschließlich unter Lizenz genutzt werden. Lizenzen werden nur direkt über die Urheberin Isabel Schöps, geb. Thiel, oder über einen nachweislich autorisierten Lizenzpartner vergeben.
 
@@ -167,27 +167,32 @@ Einzelpersonen, Unternehmen oder Institutionen ohne gültige Lizenz begehen eine
 
 Zuwiderhandlungen werden automatisiert dokumentiert, revisionssicher protokolliert und an nationale sowie internationale Strafverfolgungsbehörden gemeldet (u. a. BKA, Interpol, FBI, Europol, NSA, CIA, Mossad, MSS).
 
-Kontakt für Lizenzanfragen:
-Isabel Schöps, geb. Thiel
-E-Mail: github@isabelschoeps.com
-Lizenzsystem: SI Security Intelligence / CISA – Cyber Intelligent Security Artefact
+---
 
-⸻
+## Signatur: Auftraggeberin der Forensisch-Wissenschaftlichen Auswertung, Autorin, Urheberin, Deepweb-Forscherin: 
 
-ENGLISH – Copyright and License Notice
-© Isabel Schöps (née Thiel) – All rights reserved.
-This work is protected under copyright law. It is released strictly under a read-only license.
+**Frau Isabel Schöps (Thiel)** ist am 16.07.1983, um 23:20 Uhr im Kreiskrankenhaus, Sömmerda, Thüringen, Deutschland mit ihren Familiennamen Thiel geboren.
 
-Any reproduction, redistribution, public disclosure, modification, cloning, forking, reverse engineering, integration into other systems, or any form of derivative use – in whole or in part – is strictly prohibited.
+**Zeitstempel der Eintragung:** Donnerstag, 02.04.2026, 16:50:00 Uhr (MEZ)  
 
-This software is only available under a valid license.
-Licenses are granted solely by Isabel Schöps (née Thiel) or through a formally authorized licensing partner with written confirmation.
+**Wohnort der Autorin:**
+Frau Isabel Schöps geb. Thiel (*16.07.1983),
+Hütergasse 4, D-99084 Erfurt, Th, Deutschland
 
-Any unauthorized use, duplication or manipulation constitutes a copyright infringement pursuant to §§ 106 ff. UrhG (German Copyright Law), § 263a StGB (computer fraud), and may violate international treaties.
+**Personalausweis ID:** LH917PN7G8 -  Bürgeramt Erfurt, Th, Deutschland
 
-All violations are automatically logged, securely archived and will be reported to national and international law enforcement agencies (including BKA, Interpol, FBI, Europol, NSA, CIA, Mossad, MSS).
+**E-Mail:** harvard.isabelschoepsthiel@gmail.com 
 
-For official license requests, contact:
-Isabel Schöps (née Thiel)
-E-mail: github@isabelschoeps.com
-Licensing managed by: SI Security Intelligence / CISA – Cyber Intelligent Security Artefact
+**Telefon:** 0049-162-181-9565
+
+- [**OrcID: Isabel Schöps Thiel 0009-0003-4235-2231**](https://orcid.org/0009-0003-4235-2231)
+- [**OrcID: SI-IST Isabel Schöps 0009-0006-8765-3267**](https://orcid.org/0009-0006-8765-3267)
+
+**Gutachten:**
+SIA – Security Intelligence Artefact 
+
+**Internationale Kennung:**
+INT-CODE-2025-BTC/ETH-CORE-ISABELSCHOEPSTHIEL  
+
+**Referenzdokument:**
+The Yellow Whitepaper (YWP-1-IST-SIA) 
